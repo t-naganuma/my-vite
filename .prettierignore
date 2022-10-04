@@ -7,3 +7,5 @@ tsconfig.node.json
 vite.config.json
 node_modules
 .env
+dist
+assets
